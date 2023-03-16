@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "fd38597f19bf0c6790cddfd282f55fdbaf223192b094ae0984601f43d0155703"
+build_start_time: [1678864498, 260346889]
+build_end_time: [1678864511, 761201858]
+inputs:
+  "/Users/apple/Documents/work/mobile_apps/aveosoft/MapBox/macos/Flutter/GeneratedPluginRegistrant.swift": [1678864458, 139044761]
+  "/Users/apple/Documents/work/mobile_apps/aveosoft/MapBox/macos/Runner/AppDelegate.swift": [1678860511, 999963283]
+  "/Users/apple/Documents/work/mobile_apps/aveosoft/MapBox/macos/Runner/MainFlutterWindow.swift": [1678860512, 4539489]
